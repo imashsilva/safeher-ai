@@ -8,6 +8,9 @@ SafeHer AI is an open-source, multilingual digital safety and protection platfor
 - **Database**: PostgreSQL (Supabase-hosted cloud instance)
 - **Languages Supported**: Sinhala, Tamil, English (Trauma-informed localization)
 
+## UI/UX Design & Architecture
+![SafeHer Wireframe Architecture](docs/wireframe.png)
+
 ## End-to-End Workflow Demonstrated
 1. **Multilingual Intake**: Language selection and structured reporting for adult & under-18 pathways.
 2. **AI Classification Engine**: Rule-based preliminary assessment explaining confidence score & rationale.
