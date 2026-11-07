@@ -2,6 +2,10 @@
 
 SafeHer AI is an open-source, multilingual digital safety and protection platform designed to help women and girls identify, document, and respond to technology-facilitated abuse through privacy-preserving artificial intelligence and verified human support.
 
+## Official Documentation & Architecture
+- 📄 [Technical Architecture & Safeguarding Specification (PDF)](docs/SafeHer_AI_Architecture_and_Safeguarding.pdf)
+- ⚖️ [MIT Open-Source License](LICENSE)
+
 ## Architecture & Technology Stack
 - **Frontend**: Next.js v15 (App Router), TypeScript, Tailwind CSS v4, Lucide Icons
 - **Backend**: Python 3.13, FastAPI, SQLAlchemy, Uvicorn
