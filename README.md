@@ -15,6 +15,10 @@ SafeHer AI is an open-source, multilingual digital safety and protection platfor
 ## UI/UX Design & Architecture
 ![SafeHer Wireframe Architecture](docs/wireframe.png)
 
+## 📺 Prototype Demonstration Video
+Watch the end-to-end Build 1 functional workflow demonstration (2 mins):
+- **Video Link**: [Watch SafeHer AI Demonstration on YouTube](https://youtu.be/Vp47cSOmPwQ?si=JW4625BXNUsoUEc7)
+
 ## End-to-End Workflow Demonstrated
 1. **Multilingual Intake**: Language selection and structured reporting for adult & under-18 pathways.
 2. **AI Classification Engine**: Rule-based preliminary assessment explaining confidence score & rationale.
