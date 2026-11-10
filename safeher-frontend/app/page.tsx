@@ -15,7 +15,7 @@ import {
 } from 'lucide-react';
 
 const BACKEND_URL = 'https://safeher-ai-i4ta.onrender.com';
-cd
+
 // 1. Multi-Language Dictionary (English, Sinhala, Tamil)
 const TRANSLATIONS = {
   English: {
